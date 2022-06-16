@@ -1,5 +1,6 @@
 public class PasarPorValor {
     public static void main(String[] args) {
+
         int i = 10; //Variable tipo Integer primitiva, toda v. primitiva siempre se pasa por valor en el argumento del método
 
         System.out.println("iniciamos en main con i = " + i);
